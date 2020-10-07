@@ -1,4 +1,4 @@
-# covid19_detector : Detecting COVID-19 from X-Ray image
+# Covid19 Detector : Detecting COVID-19 from X-Ray image
 
 A  Flutter app to detect covid19 from X-Ray image.
 
@@ -7,7 +7,6 @@ A  Flutter app to detect covid19 from X-Ray image.
 - [ ] Web
 
 ![Illustrative Examples of Chest X-Rays in Patients with Pneumoniab](https://github.com/chayanforyou/Covid19Detector/blob/master/sample_images/pneumonia.png)
-
 Image source : Kaggle X-Ray Chest Images
 
 Model trained using [Teachable Machine](https://teachablemachine.withgoogle.com/)
@@ -33,7 +32,7 @@ flutter run
 ```
 
 ### Special Thanks 
-To [Prateek](https://www.linkedin.com/in/prateek-narang-0108b39a/) Bhaiay from Coding Blocks [Source](https://www.youtube.com/watch?v=nHQDDAAzIsI)
+To [Sanskar Tiwari](https://github.com/theindianappguy/) & [Prateek](https://www.linkedin.com/in/prateek-narang-0108b39a/) 
 
 ### License
 
