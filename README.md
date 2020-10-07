@@ -1,9 +1,14 @@
 # Covid19 Detector : Detecting COVID-19 from X-Ray image
 
-![Normal Case](https://github.com/chayanforyou/Covid19Detector/blob/master/sample_images/normal.jpg)
-![Covid Case](https://github.com/chayanforyou/Covid19Detector/blob/master/sample_images/detected.jpg)
-
-A  Flutter app to detect covid19 from X-Ray image.
+<p align="center">
+  <img width="450px" height="800px" src="https://github.com/chayanforyou/Covid19Detector/blob/master/sample_images/normal.jpg?raw=true"/>
+  <img width="450px" height="800px" src="https://github.com/chayanforyou/Covid19Detector/blob/master/sample_images/detected.jpg?raw=true"/>
+</p>
+<p align="center" >
+  <b>
+    A  Flutter app to detect covid19 from X-Ray image.
+  </b>
+</p>
 
 - [x] Android
 - [ ] IOS
