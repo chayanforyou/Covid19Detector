@@ -6,7 +6,7 @@
 </p>
 <p align="left" >
   <b>
-    Fig : A  Flutter app to detect covid19 from X-Ray image.
+    Fig : A Flutter app thats detect covid19 from X-Ray image using TensorFlow Lite.
   </b>
 </p>
 
