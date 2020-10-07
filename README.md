@@ -1,4 +1,4 @@
-# Covid19 Detector : Detecting COVID-19 from X-Ray image
+## Covid19 Detector : Detecting COVID-19 from X-Ray image
 
 <p align="left">
   <img width="200px" height="356px" src="https://github.com/chayanforyou/Covid19Detector/blob/master/sample_images/normal.jpg?raw=true"/>
