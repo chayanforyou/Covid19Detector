@@ -4,7 +4,6 @@ A  Flutter app to detect covid19 from X-Ray image.
 
 - [x] Android
 - [ ] IOS
-- [ ] Web
 
 ![Illustrative Examples of Chest X-Rays in Patients with Pneumoniab](https://github.com/chayanforyou/Covid19Detector/blob/master/sample_images/pneumonia.png)
 
