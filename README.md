@@ -7,9 +7,10 @@ A  Flutter app to detect covid19 from X-Ray image.
 - [ ] Web
 
 ![Illustrative Examples of Chest X-Rays in Patients with Pneumoniab](https://github.com/chayanforyou/Covid19Detector/blob/master/sample_images/pneumonia.png)
-Image source : Kaggle X-Ray Chest Images
 
-Model trained using [Teachable Machine](https://teachablemachine.withgoogle.com/)
+Image Source : Kaggle X-Ray Chest Images
+
+Model Trained Using [Teachable Machine](https://teachablemachine.withgoogle.com/)
 
 Covid X-Ray Image Dataset - https://github.com/ieee8023/covid-chestxray-dataset for positive cases.
 
