@@ -10,12 +10,14 @@
   </b>
 </p>
 
+### Platform
+
 - [x] Android
 - [ ] IOS
 
 ![Illustrative Examples of Chest X-Rays in Patients with Pneumoniab](https://github.com/chayanforyou/Covid19Detector/blob/master/sample_images/pneumonia.png)
 
-Image Source : Kaggle X-Ray Chest Images
+**Image Source : Kaggle X-Ray Chest Images**
 
 Model Trained Using [Teachable Machine](https://teachablemachine.withgoogle.com/)
 
